@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#Weather-card{
+    background-color: rgba(85, 176, 237, 0.4); 
+}
+
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-text{
+  word-break:break-all;
+}
